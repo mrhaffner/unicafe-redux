@@ -1,0 +1,1 @@
+This is the Unicafe Redux assignment from the Full Stack Open coursework.
